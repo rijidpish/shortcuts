@@ -4,3 +4,27 @@
 ## Hashit
 <p>This shortcut will take a string, clipboard contents or a file stored in iCloud Drive or Dropbox and generate a hash of a chosen type</p>
 <p>Currently supports: MD5, SHA-1, SHA-256 and SHA-512</p>
+
+## Pwned||!
+<p>This shortcut takes a password, hashes it as SHA-1 and then connects to the haveibeenpwned.com api to check if it has been compromised and shows how many times it appears in the data set.</p>
+
+## Base64 Encoder
+<p>This shortcut takes a string or clipboard contents and encodes it to base64</p>
+
+## Base64 Decoder
+<p>This shortcut takes a string or clipboard contents and decodes base64 to plaintext<br>* Must only contain base64</p>
+
+## Device Information
+<p>This shortcut lists some interesting information on the device, including: Device Model, Device System Version, Device Battery Level, Local IPv4, Local IPv6, Public IPv4, SSID, BSSID, Cellular Carrier, Cellular Radio, Cellular Country Code, Location, Latitude, Longditude, Altitude.</p>
+
+## URL Encoder
+<p>This shortcut encodes a string so that it can be used in a URL, warts and all.</p>
+
+## Expand URL
+<p>This shortcut expands a URL that has been shortened by a service like Bit.ly<br>TODO: split the expanded URL into parts (scheme, User, Password, Host, Port, Path, Query, Fragment etc.</p>
+
+## Measure
+<p>This shortcut will take a string or clipboard contents and count things like: characters, words, sentences, lines and average read time.</p>
+
+## QR2Clipboard
+<p>This shortcut will activate the device camera, scan a QR code and show the text.</p>
