@@ -21,7 +21,7 @@
 <p>This shortcut encodes a string so that it can be used in a URL, warts and all.</p>
 
 ## Expand URL
-<p>This shortcut expands a URL that has been shortened by a service like Bit.ly<br>TODO: split the expanded URL into parts (scheme, User, Password, Host, Port, Path, Query, Fragment etc.</p>
+<p>This shortcut expands a URL that has been shortened by a service like Bit.ly<br>TODO: split the expanded URL into parts (Scheme, User, Password, Host, Port, Path, Query, Fragment etc.</p>
 
 ## Measure
 <p>This shortcut will take a string or clipboard contents and count things like: characters, words, sentences, lines and average read time.</p>
