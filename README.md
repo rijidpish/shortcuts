@@ -28,3 +28,6 @@
 
 ## QR2Clipboard
 <p>This shortcut will activate the device camera, scan a QR code and show the text.</p>
+
+## MailSnaff
+<p>This shortcut finds all email address links on a webpage and creates a list, saves to file and/or to clipboard</p>
